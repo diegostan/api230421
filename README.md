@@ -7,7 +7,7 @@
 
 ## Open Source
 
-* Desenvolido com .NET Core 5 será totalmente OPEN e multiplataforma
+* Desenvolvimento com .NET Core 5 será totalmente OPEN e multiplataforma
 
 ## Sobre essa API
 
