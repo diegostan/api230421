@@ -1,9 +1,5 @@
 # api230421 
-### API REST Data Driven > ASP.NET 5 e EF Core < (back end DreamPet)
-
-## API RESTful com autenticação e autorização Bearer 
-
-* O DreamPet surgiu da ideia de gerenciar melhor o histórico de animais como controle de vacinação, alimentação, exercícios entre outras.
+### API REST Data Driven ASP.NET 5 e EF Core
 
 ## Open Source
 
