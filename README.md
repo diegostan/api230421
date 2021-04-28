@@ -1,17 +1,17 @@
 # api230421 
 ### API REST Data Driven > ASP.NET 5 e EF Core < (back end DreamPet)
 
-## DreamPet 💜
+## API RESTful com autenticação e autorização Bearer 
 
 * O DreamPet surgiu da ideia de gerenciar melhor o histórico de animais como controle de vacinação, alimentação, exercícios entre outras.
 
 ## Open Source
 
-* Desenvolvimento com .NET Core 5 será totalmente OPEN e multiplataforma
+* Desenvolvimento com .NET Core 5 totalmente OPEN e multiplataforma
 
 ## Sobre essa API
 
-* A API está em processo de construção, nela irá conter os dominios ricos para cadastrar produtos e categorias como alimentos e vacinas por exemplo, 
+* A API está em processo de construção, nela irá conter os dominios ricos para cadastrar produtos e categorias, 
 a ideia é desenvolver uma API Clean Code com alta taxa de manutenção e escalabilidade
 
 ## Atualizações
@@ -26,12 +26,6 @@ a ideia é desenvolver uma API Clean Code com alta taxa de manutenção e escala
 * Autenticação com Bearer
 * JSON
 * MVC
-* Dominio rico (tratamento de dados do lado da API)
 * SQL Server
 * Azure
 
-## Tecnologias front end
-
-* Xamarin para Mobile
-* Quem sabe o MAUI chegue para criarmos algo para Desk ? ❤️
-* Pretendo utilizar Angular para WEB
